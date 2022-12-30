@@ -1,11 +1,12 @@
 # Four card feature section
 
-# Overview
+## Overview
 
-This page was created for frontend mentor challenge. Challenge link: 
+This page was created for frontend mentor challenge.
+ Challenge link: https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK
 
 
-LIVE LINK: 
+LIVE LINK: https://maikocode.github.io/Four-card-feature-section/
 
 ## The challenge
 
@@ -19,8 +20,7 @@ Your users should:
 
 ### Screenshot
 
-
-
+![](./design/desktop-preview.jpg)
 
 
 ### What I learned
@@ -31,9 +31,6 @@ This challenge is quite simple. It constitutes a good training if it is done wit
 - Frontend Mentor - [@Maikoke](https://www.frontendmentor.io/profile/MaikoCode)
 - Twitter - [@Maikoke5](https://twitter.com/Maikoke5)
 
-# Frontend Mentor - 
-
-![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
 
 
